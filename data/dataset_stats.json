@@ -1,0 +1,16 @@
+{
+ "metadata_records": 10284,
+ "with_waterfall_matrix": 5414,
+ "kept": 5408,
+ "dropped": {
+  "duplicate_key": 0,
+  "no_tle_or_station": 6,
+  "propagation_error": 0,
+  "bad_geometry": 0,
+  "not_good_or_bad": 0
+ },
+ "bad": 1662,
+ "good": 3746,
+ "satellites": 573,
+ "stations": 379
+}

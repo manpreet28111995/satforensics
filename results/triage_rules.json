@@ -1,0 +1,20 @@
+{
+ "cw_vs_sw": {
+  "rule": "std of per-row position of the maximum",
+  "threshold": 0.15386185765266455,
+  "val_acc": 0.9859154929577465,
+  "test_acc": 0.9555555555555556,
+  "median_cw": 0.013407785445451736,
+  "median_sw": 0.2857682704925537,
+  "n_test": 90
+ },
+ "cw_vs_sp": {
+  "rule": "absolute correlation of the position of the maximum with the predicted Doppler curve",
+  "threshold": 0.2843713758764402,
+  "val_acc": 0.8760330578512396,
+  "test_acc": 0.8526315789473684,
+  "median_cw": 0.10229878321531778,
+  "median_sp": 0.4865814365042593,
+  "n_test": 95
+ }
+}

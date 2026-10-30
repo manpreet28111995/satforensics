@@ -1,0 +1,44 @@
+{
+ "sf": {
+  "params": 30329,
+  "latency_ms": 0.46905537332956254,
+  "mflops": 1.997184,
+  "size_mb": 0.121316
+ },
+ "sf_base": {
+  "params": 32086,
+  "latency_ms": 0.4456594900026782,
+  "mflops": 2.222464,
+  "size_mb": 0.128344
+ },
+ "trans_s": {
+  "params": 37424,
+  "latency_ms": 0.21344353666790994,
+  "mflops": 2.306496,
+  "size_mb": 0.149696
+ },
+ "cnn": {
+  "params": 39030,
+  "latency_ms": 0.11015667000416822,
+  "mflops": 4.915968,
+  "size_mb": 0.15612
+ },
+ "lstm": {
+  "params": 65014,
+  "latency_ms": 0.4649356133328789,
+  "mflops": 8.128,
+  "size_mb": 0.260056
+ },
+ "svm": {
+  "params": null,
+  "latency_ms": 0.41884740499881445,
+  "mflops": null,
+  "size_mb": 2.258572
+ },
+ "rf": {
+  "params": null,
+  "latency_ms": 14.862432544996409,
+  "mflops": null,
+  "size_mb": 12.813366
+ }
+}
