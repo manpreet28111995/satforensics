@@ -39,3 +39,7 @@ To collect new data instead, remove `data/dataset.npz`; the driver then queries 
 ## Data source
 
 Observation records come from the SatNOGS Network (https://network.satnogs.org), operated by the Libre Space Foundation and the SatNOGS community. Waterfall images are processed in memory; only extracted matrices and metadata are released.
+
+## Citation
+
+Kaushik, K., Al-Zyoud, M., Gaur, P. *et al.* SatForensics: a transformer-based multi-modal framework for cyber-attack detection, attribution, and chain-of-custody forensics in low-earth-orbit satellite communication networks. *Sci Rep* (2026). [https://doi.org/10.1038/s41598-026-81042-7](https://doi.org/10.1038/s41598-026-81042-7)
